@@ -1,0 +1,125 @@
+.app{
+    background-color: blueviolet;
+ 
+}
+
+body {
+    background-color:white;
+  }
+  
+.cabecalho {
+    border-radius: 15px;
+    width: 1330px;
+    height: 400px;
+    background-image: url('./infor.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top:initial;
+    border-style: solid;
+    position:absolute; 
+    display:flex;
+    box-shadow: 5px 10px;
+}
+
+
+
+.fig1{
+    background: url('./FB_IMG_1592750757771.jpg');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 80px;
+    border-radius: 150px 150px;
+    border-color: black;
+    border-style: solid;
+    margin-left:20px;  
+    position:absolute;
+
+}
+
+
+.fig2{
+    background: url('./Quem_sou_eu.jpg');
+    width: 120px;
+    height: 65px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left:35%;
+    margin-top: 520px;
+    border-radius: 12px 12px;
+    position:absolute;
+    box-shadow: 5px 10px; 
+}
+
+.fig3{
+    background: url('./programas.jpg');
+    width: 150px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 68%;
+    margin-top: 10px;
+    position: absolute;
+    border: solid  #0f4577;
+    box-shadow: 5px 10px;
+    border-radius: 12px 12px;
+}
+
+
+.rodape {
+    border-radius: 15px;
+    width: 1330px;
+    height: 130px;
+    margin-top:20px;
+    position:absolute; 
+    display:flex;
+    box-shadow: 5px 10px;
+    background-color: rgb(0, 17, 255);
+}
+
+.fig4{
+    background: url('./manutencao.jpg');
+    width: 150px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 53%;
+    margin-top: 10px;
+    position: absolute;
+    border: solid  #0f4577;
+    box-shadow: 5px 10px;
+    border-radius: 12px 12px;
+
+}
+
+
+.css{
+    background: url('./css.jpg');
+    width: 150px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 38%;
+    margin-top: 10px;
+    position: absolute;
+    border: solid  #0f4577;
+    box-shadow: 5px 10px;
+    border-radius: 12px 12px;
+
+}
+
+.html{
+    background: url('./html.jpg');
+    width: 150px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    margin-left: 23%;
+    margin-top: 10px;
+    position: absolute;
+    border: solid  #0f4577;
+    box-shadow: 5px 10px;
+    border-radius: 12px 12px;
+
+}
